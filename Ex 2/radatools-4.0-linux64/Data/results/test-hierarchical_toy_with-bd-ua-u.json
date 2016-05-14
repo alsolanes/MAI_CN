@@ -1,0 +1,61 @@
+# First Binary Dendrograms (maximum 1000)
+{
+ "name": "clus7", "height": 5.0, "margin": 0.0, "length": 0.0,
+ "children": [
+  {
+   "name": "clus6", "height": 3.0, "margin": 0.0, "length": 2.0,
+   "children": [
+    {
+     "name": "clus5", "height": 2.0, "margin": 0.0, "length": 1.0,
+     "children": [
+      {"name": "x1", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1},
+      {"name": "x2", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1}
+     ]
+    },
+    {"name": "x3", "height": 0.0, "margin": 0.0, "length": 3.0, "size": 1}
+   ]
+  },
+  {"name": "x4", "height": 0.0, "margin": 0.0, "length": 5.0, "size": 1}
+ ]
+}
+
+{
+ "name": "clus7", "height": 4.5, "margin": 0.0, "length": 0.0,
+ "children": [
+  {
+   "name": "clus5", "height": 2.0, "margin": 0.0, "length": 2.5,
+   "children": [
+    {"name": "x1", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1},
+    {"name": "x2", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1}
+   ]
+  },
+  {
+   "name": "clus6", "height": 3.0, "margin": 0.0, "length": 1.5,
+   "children": [
+    {"name": "x3", "height": 0.0, "margin": 0.0, "length": 3.0, "size": 1},
+    {"name": "x4", "height": 0.0, "margin": 0.0, "length": 3.0, "size": 1}
+   ]
+  }
+ ]
+}
+
+{
+ "name": "clus7", "height": 5.0, "margin": 0.0, "length": 0.0,
+ "children": [
+  {
+   "name": "clus6", "height": 3.0, "margin": 0.0, "length": 2.0,
+   "children": [
+    {"name": "x1", "height": 0.0, "margin": 0.0, "length": 3.0, "size": 1},
+    {
+     "name": "clus5", "height": 2.0, "margin": 0.0, "length": 1.0,
+     "children": [
+      {"name": "x2", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1},
+      {"name": "x3", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1}
+     ]
+    }
+   ]
+  },
+  {"name": "x4", "height": 0.0, "margin": 0.0, "length": 5.0, "size": 1}
+ ]
+}
+

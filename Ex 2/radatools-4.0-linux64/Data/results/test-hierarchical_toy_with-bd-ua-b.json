@@ -1,0 +1,41 @@
+# The 2 Binary Dendrograms with Highest Cophenetic Correlation
+{
+ "name": "", "height": 5, "margin": 0, "length": 0,
+ "children": [
+  {
+   "name": "", "height": 3, "margin": 0, "length": 2,
+   "children": [
+    {
+     "name": "", "height": 2, "margin": 0, "length": 1,
+     "children": [
+      {"name": "x1", "height": 0, "margin": 0, "length": 2, "size": 1},
+      {"name": "x2", "height": 0, "margin": 0, "length": 2, "size": 1}
+     ]
+    },
+    {"name": "x3", "height": 0, "margin": 0, "length": 3, "size": 1}
+   ]
+  },
+  {"name": "x4", "height": 0, "margin": 0, "length": 5, "size": 1}
+ ]
+}
+
+{
+ "name": "", "height": 5, "margin": 0, "length": 0,
+ "children": [
+  {
+   "name": "", "height": 3, "margin": 0, "length": 2,
+   "children": [
+    {"name": "x1", "height": 0, "margin": 0, "length": 3, "size": 1},
+    {
+     "name": "", "height": 2, "margin": 0, "length": 1,
+     "children": [
+      {"name": "x2", "height": 0, "margin": 0, "length": 2, "size": 1},
+      {"name": "x3", "height": 0, "margin": 0, "length": 2, "size": 1}
+     ]
+    }
+   ]
+  },
+  {"name": "x4", "height": 0, "margin": 0, "length": 5, "size": 1}
+ ]
+}
+

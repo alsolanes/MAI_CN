@@ -1,0 +1,4 @@
+# Binary Dendrograms
+((x1:3.0,(x2:2.0,x3:2.0)Cluster_5:1.0)Cluster_6:2.0,x4:5.0)Cluster_7:0.0;
+(((x1:2.0,x2:2.0)Cluster_5:1.0,x3:3.0)Cluster_6:2.0,x4:5.0)Cluster_7:0.0;
+((x1:2.0,x2:2.0)Cluster_5:2.5,(x3:3.0,x4:3.0)Cluster_6:1.5)Cluster_7:0.0;

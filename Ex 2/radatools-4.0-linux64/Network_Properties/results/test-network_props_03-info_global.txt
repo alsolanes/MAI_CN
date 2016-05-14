@@ -1,0 +1,67 @@
+File name  :	test-network_props_03.net
+
+Directed   :	True
+Weighted   :	True
+Signed     :	False
+Integer    :	False
+Connected  :	Weak
+
+Vertices   :	11
+Edges      :	17
+Self-loops :	1
+
+Total degree   :	17
+Average degree :	1.545455
+Minimum degree :
+  (in)         :	0
+  (out)        :	0
+Maximum degree :
+  (in)         :	5
+  (out)        :	5
+
+Total strength   :	248.500000
+Average strength :	22.590909
+Minimum strength :
+  (in)           :	0.000000
+  (out)          :	0.000000
+Maximum strength :
+  (in)           :	100.000000
+  (out)          :	100.000000
+
+Total self-loops strength :	1.000000
+
+Minimum value   :	1.000000
+Maximum value   :	70.000000
+
+Asymmetry   :	0.470588
+  (wh)      :	0.062374
+Reciprocity :	0.529412
+  (wh)      :	0.937626
+Asymmetry ignoring self-loops   :	0.500000
+  (wh)                          :	0.062626
+Reciprocity ignoring self-loops :	0.500000
+  (wh)                          :	0.937374
+
+Average entropy   :
+  (in)            :	0.574721
+  (in)(wh)        :	0.287534
+  (in)(wh)(norm)  :	0.240026
+  (out)           :	0.574721
+  (out)(wh)       :	0.293793
+  (out)(wh)(norm) :	0.242229
+
+Assortativity (Pearson)  :	-0.432584
+  (wh)                   :	-0.082712
+Assortativity (Spearman) :	-0.353989
+  (wh)                   :	-0.124315
+Assortativity Error (Pearson)  :	0.169110
+  (wh)                         :	0.269132
+Assortativity Error (Spearman) :	0.244320
+  (wh)                         :	0.280037
+
+Average clustering coefficient :	0.183932
+  (wh)                         :	0.181849
+
+Efficiency          :	0.353636
+  (wh)              :	0.150695
+

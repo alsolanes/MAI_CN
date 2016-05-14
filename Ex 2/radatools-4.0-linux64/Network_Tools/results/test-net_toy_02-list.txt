@@ -1,0 +1,5 @@
+nom1	nom2	1.1
+nom1	33	str
+nom2	nom2	1
+33	nom4	7
+nom4	nom4	zz

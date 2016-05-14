@@ -1,0 +1,32 @@
+File name  :	test-zachary_unwh.net
+
+Directed   :	False
+Weighted   :	False
+Signed     :	False
+Connected  :	Strong
+
+Vertices   :	34
+Edges      :	78
+Self-loops :	0
+
+Total degree   :	156
+Average degree :	4.588235
+Minimum degree :	1
+Maximum degree :	17
+
+Asymmetry   :	0.000000
+Reciprocity :	1.000000
+
+Average entropy :	1.847346
+
+Assortativity (Pearson)  :	-0.475613
+Assortativity (Spearman) :	-0.479092
+Assortativity Error (Pearson)  :	0.048031
+Assortativity Error (Spearman) :	0.062661
+
+Average clustering coefficient :	0.570638
+
+Average path length :	2.408200
+Diameter            :	5
+Efficiency          :	0.492008
+

@@ -1,0 +1,12 @@
+1_main_hub	2_hair_to	3_hair_from	4_hair_bidir	5_cycle_1	6_cycle_2	7_trihair_from	8_trihair_to	9_longhair_1	10_longhair_2	11_longhair_3
+0	1	0	20	1	0	0	1	70	0	0
+0	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0
+15	0	0	1	0	0	0	0	0	0	0
+0	0	0	0	0	1	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	0	0	0	0	0
+70	0	0	0	0	0	0	0	0	30	0
+0	0	0	0	0	0	0	0	30	0	1
+0	0	0	0	0	0	0	0	0	1	0

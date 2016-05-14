@@ -1,0 +1,67 @@
+=====================================
+Starting 5 extremal
+  Q = 0.367188
+  Q = 0.367188
+  Q = 0.367188
+  End rep
+  Q = 0.367188
+  Q = 0.367188
+  Q = 0.367188
+  End rep
+  Q = 0.367188
+  Q = 0.367188
+  Q = 0.367188
+  End rep
+  Q = 0.367188
+  Q = 0.367188
+  Q = 0.367188
+  End rep
+  Q = 0.367188
+  Q = 0.367188
+  Q = 0.367188
+  End rep
+End of 5 extremal
+Q(e) = 0.367188   (0.266s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.367188   (0.000s)
+=====================================
+Starting 5 fast
+  Q = 0.367188
+  End rep
+End of 5 fast
+Q(f) = 0.367188   (0.000s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.367188   (0.000s)
+=====================================
+Starting 5 tabu
+  End rep
+  End rep
+  End rep
+  End rep
+  End rep
+End of 5 tabu
+Q(t) = 0.367188   (0.004s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.367188   (0.000s)
+=====================================
+Starting 5 fast
+  Q = 0.367188
+  End rep
+End of 5 fast
+Q(f) = 0.367188   (0.000s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.367188   (0.000s)
+=====================================
+Q_Best = 0.367188   (0.271s)   communities: 2   parameters: WN erfrtrfr 5

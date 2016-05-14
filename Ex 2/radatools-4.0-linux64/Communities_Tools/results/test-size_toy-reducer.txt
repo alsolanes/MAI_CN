@@ -1,0 +1,11 @@
+---------
+Reduction partition
+test-size_toy.net -> test-size_toy-reduced.net
+---
+Number of elements: 11
+Number of lists: 4
+
+7: 1 2 3 4 9 10 11
+1: 5
+1: 6
+2: 7 8

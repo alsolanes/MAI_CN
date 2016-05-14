@@ -1,0 +1,87 @@
+=====================================
+Starting 5 extremal
+  Q = 0.371795
+  Q = 0.402038
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  End rep
+  Q = 0.371795
+  Q = 0.402038
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  End rep
+  Q = 0.371795
+  Q = 0.388560
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  End rep
+  Q = 0.371795
+  Q = 0.388560
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  End rep
+  Q = 0.371795
+  Q = 0.402038
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  Q = 0.418803
+  End rep
+End of 5 extremal
+Q(e) = 0.419790   (1.681s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.419790   (0.001s)
+=====================================
+Starting 5 fast
+  Q = 0.419790
+  End rep
+End of 5 fast
+Q(f) = 0.419790   (0.000s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.419790   (0.001s)
+=====================================
+Starting 5 tabu
+  End rep
+  End rep
+  End rep
+  End rep
+  End rep
+End of 5 tabu
+Q(t) = 0.419790   (0.078s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.419790   (0.001s)
+=====================================
+Starting 5 fast
+  Q = 0.419790
+  End rep
+End of 5 fast
+Q(f) = 0.419790   (0.000s)
+=====================================
+Starting 5 reposition
+  End rep
+End of 5 reposition
+Q(r) = 0.419790   (0.001s)
+=====================================
+Q_Best = 0.419790   (1.765s)   communities: 4   parameters: WN erfrtrfr 5

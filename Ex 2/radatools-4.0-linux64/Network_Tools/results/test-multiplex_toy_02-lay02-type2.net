@@ -1,0 +1,10 @@
+*Vertices 5
+1 AA
+2 BB
+3 CC
+4 DD
+5 EE
+*Arcs
+3 4 2.0
+3 5 2.0
+4 5 2.0

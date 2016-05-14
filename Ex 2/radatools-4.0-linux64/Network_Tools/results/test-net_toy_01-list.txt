@@ -1,0 +1,17 @@
+1_main_hub	2_hair_to	1
+1_main_hub	4_hair_bidir	20
+1_main_hub	5_cycle_1	1
+1_main_hub	8_trihair_to	1
+1_main_hub	9_longhair_1	70
+3_hair_from	1_main_hub	1
+4_hair_bidir	1_main_hub	15
+4_hair_bidir	4_hair_bidir	1
+5_cycle_1	6_cycle_2	1
+6_cycle_2	1_main_hub	1
+7_trihair_from	1_main_hub	1
+7_trihair_from	8_trihair_to	1
+9_longhair_1	1_main_hub	70
+9_longhair_1	10_longhair_2	30
+10_longhair_2	9_longhair_1	30
+10_longhair_2	11_longhair_3	1
+11_longhair_3	10_longhair_2	1

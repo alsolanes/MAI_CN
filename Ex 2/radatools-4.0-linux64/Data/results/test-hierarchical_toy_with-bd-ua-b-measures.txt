@@ -1,0 +1,3 @@
+Cophenetic_Correlation	Cophenetic_Correlation_Error	Normalized_Mean_Squared_Error	Normalized_Mean_Absolute_Error
+0.684855	0.224463	0.093458	0.260870
+0.684855	0.215739	0.093458	0.260870

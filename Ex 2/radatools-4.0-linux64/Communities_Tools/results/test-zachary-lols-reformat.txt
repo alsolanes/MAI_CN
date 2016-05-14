@@ -1,0 +1,1051 @@
+========================
+1 communities
+34 nodes in community 1
+1            2            3            4            5            
+6            7            8            9            10           
+11           12           13           14           15           
+16           17           18           19           20           
+21           22           23           24           25           
+26           27           28           29           30           
+31           32           33           34           
+
+
+========================
+2 communities
+18 nodes in community 1
+9            10           15           16           19           
+21           23           24           25           26           
+27           28           29           30           31           
+32           33           34           
+16 nodes in community 2
+1            2            3            4            5            
+6            7            8            11           12           
+13           14           17           18           20           
+22           
+
+
+========================
+4 communities
+12 nodes in community 1
+9            10           15           16           19           
+21           23           27           30           31           
+33           34           
+11 nodes in community 2
+1            2            3            4            8            
+12           13           14           18           20           
+22           
+6 nodes in community 3
+24           25           26           28           29           
+32           
+5 nodes in community 4
+5            6            7            11           17           
+
+
+========================
+5 communities
+11 nodes in community 1
+1            2            3            4            8            
+12           13           14           18           20           
+22           
+11 nodes in community 2
+9            15           16           19           21           
+23           27           30           31           33           
+34           
+6 nodes in community 3
+24           25           26           28           29           
+32           
+5 nodes in community 4
+5            6            7            11           17           
+1 nodes in community 5
+10           
+
+
+========================
+6 communities
+11 nodes in community 1
+9            15           16           19           21           
+23           27           30           31           33           
+34           
+10 nodes in community 2
+1            2            3            4            8            
+13           14           18           20           22           
+6 nodes in community 3
+24           25           26           28           29           
+32           
+5 nodes in community 4
+5            6            7            11           17           
+1 nodes in community 5
+10           
+1 nodes in community 6
+12           
+
+
+========================
+7 communities
+10 nodes in community 1
+1            2            3            4            8            
+13           14           18           20           22           
+9 nodes in community 2
+9            15           16           19           21           
+23           31           33           34           
+6 nodes in community 3
+24           25           26           28           29           
+32           
+5 nodes in community 4
+5            6            7            11           17           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+10           
+1 nodes in community 7
+12           
+
+
+========================
+8 communities
+9 nodes in community 1
+1            2            3            4            8            
+13           14           18           22           
+9 nodes in community 2
+9            15           16           19           21           
+23           31           33           34           
+6 nodes in community 3
+24           25           26           28           29           
+32           
+5 nodes in community 4
+5            6            7            11           17           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+10           
+1 nodes in community 7
+12           
+1 nodes in community 8
+20           
+
+
+========================
+9 communities
+9 nodes in community 1
+1            2            3            4            8            
+13           14           18           22           
+9 nodes in community 2
+9            15           16           19           21           
+23           31           33           34           
+5 nodes in community 3
+5            6            7            11           17           
+5 nodes in community 4
+24           25           26           28           32           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+10           
+1 nodes in community 7
+12           
+1 nodes in community 8
+20           
+1 nodes in community 9
+29           
+
+
+========================
+10 communities
+9 nodes in community 1
+9            15           16           19           21           
+23           31           33           34           
+8 nodes in community 2
+1            2            3            4            8            
+14           18           22           
+5 nodes in community 3
+5            6            7            11           17           
+5 nodes in community 4
+24           25           26           28           32           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+10           
+1 nodes in community 7
+12           
+1 nodes in community 8
+13           
+1 nodes in community 9
+20           
+1 nodes in community 10
+29           
+
+
+========================
+12 communities
+8 nodes in community 1
+9            16           19           21           23           
+31           33           34           
+7 nodes in community 2
+1            2            3            4            8            
+14           22           
+5 nodes in community 3
+5            6            7            11           17           
+5 nodes in community 4
+24           25           26           28           32           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+10           
+1 nodes in community 7
+13           
+1 nodes in community 8
+12           
+1 nodes in community 9
+18           
+1 nodes in community 10
+15           
+1 nodes in community 11
+20           
+1 nodes in community 12
+29           
+
+
+========================
+14 communities
+6 nodes in community 1
+1            2            3            4            8            
+14           
+6 nodes in community 2
+15           16           19           21           33           
+34           
+5 nodes in community 3
+5            6            7            11           17           
+4 nodes in community 4
+24           25           26           28           
+2 nodes in community 5
+29           32           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+9            31           
+1 nodes in community 8
+12           
+1 nodes in community 9
+20           
+1 nodes in community 10
+23           
+1 nodes in community 11
+13           
+1 nodes in community 12
+10           
+1 nodes in community 13
+22           
+1 nodes in community 14
+18           
+
+
+========================
+15 communities
+6 nodes in community 1
+1            2            3            4            8            
+14           
+6 nodes in community 2
+15           19           21           23           33           
+34           
+5 nodes in community 3
+5            6            7            11           17           
+3 nodes in community 4
+25           26           32           
+2 nodes in community 5
+9            31           
+2 nodes in community 6
+24           28           
+2 nodes in community 7
+27           30           
+1 nodes in community 8
+16           
+1 nodes in community 9
+22           
+1 nodes in community 10
+10           
+1 nodes in community 11
+18           
+1 nodes in community 12
+13           
+1 nodes in community 13
+12           
+1 nodes in community 14
+20           
+1 nodes in community 15
+29           
+
+
+========================
+16 communities
+6 nodes in community 1
+1            2            3            4            8            
+14           
+5 nodes in community 2
+5            6            7            11           17           
+5 nodes in community 3
+19           21           23           33           34           
+3 nodes in community 4
+25           26           32           
+2 nodes in community 5
+24           28           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+9            31           
+1 nodes in community 8
+10           
+1 nodes in community 9
+15           
+1 nodes in community 10
+20           
+1 nodes in community 11
+12           
+1 nodes in community 12
+16           
+1 nodes in community 13
+13           
+1 nodes in community 14
+18           
+1 nodes in community 15
+22           
+1 nodes in community 16
+29           
+
+
+========================
+19 communities
+5 nodes in community 1
+2            3            4            8            14           
+3 nodes in community 2
+1            5            11           
+3 nodes in community 3
+25           26           32           
+3 nodes in community 4
+27           30           34           
+3 nodes in community 5
+6            7            17           
+3 nodes in community 6
+9            31           33           
+2 nodes in community 7
+24           28           
+1 nodes in community 8
+13           
+1 nodes in community 9
+22           
+1 nodes in community 10
+23           
+1 nodes in community 11
+19           
+1 nodes in community 12
+10           
+1 nodes in community 13
+18           
+1 nodes in community 14
+16           
+1 nodes in community 15
+20           
+1 nodes in community 16
+15           
+1 nodes in community 17
+12           
+1 nodes in community 18
+21           
+1 nodes in community 19
+29           
+
+
+========================
+19 communities
+5 nodes in community 1
+2            3            4            8            14           
+3 nodes in community 2
+25           26           32           
+3 nodes in community 3
+6            7            17           
+3 nodes in community 4
+9            31           33           
+3 nodes in community 5
+27           30           34           
+2 nodes in community 6
+24           28           
+2 nodes in community 7
+5            11           
+2 nodes in community 8
+1            12           
+1 nodes in community 9
+10           
+1 nodes in community 10
+19           
+1 nodes in community 11
+22           
+1 nodes in community 12
+21           
+1 nodes in community 13
+13           
+1 nodes in community 14
+20           
+1 nodes in community 15
+16           
+1 nodes in community 16
+15           
+1 nodes in community 17
+23           
+1 nodes in community 18
+18           
+1 nodes in community 19
+29           
+
+
+========================
+20 communities
+4 nodes in community 1
+2            3            4            8            
+3 nodes in community 2
+25           26           32           
+3 nodes in community 3
+6            7            17           
+3 nodes in community 4
+9            31           33           
+2 nodes in community 5
+5            11           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+21           34           
+2 nodes in community 8
+1            12           
+2 nodes in community 9
+24           28           
+1 nodes in community 10
+22           
+1 nodes in community 11
+23           
+1 nodes in community 12
+16           
+1 nodes in community 13
+20           
+1 nodes in community 14
+10           
+1 nodes in community 15
+14           
+1 nodes in community 16
+13           
+1 nodes in community 17
+19           
+1 nodes in community 18
+18           
+1 nodes in community 19
+15           
+1 nodes in community 20
+29           
+
+
+========================
+20 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+15           33           
+2 nodes in community 4
+1            12           
+2 nodes in community 5
+19           34           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+9            31           
+2 nodes in community 8
+24           28           
+2 nodes in community 9
+5            11           
+2 nodes in community 10
+4            13           
+2 nodes in community 11
+2            18           
+2 nodes in community 12
+3            10           
+1 nodes in community 13
+14           
+1 nodes in community 14
+20           
+1 nodes in community 15
+16           
+1 nodes in community 16
+21           
+1 nodes in community 17
+8            
+1 nodes in community 18
+23           
+1 nodes in community 19
+22           
+1 nodes in community 20
+29           
+
+
+========================
+21 communities
+3 nodes in community 1
+25           26           32           
+3 nodes in community 2
+6            7            17           
+2 nodes in community 3
+3            10           
+2 nodes in community 4
+9            31           
+2 nodes in community 5
+24           28           
+2 nodes in community 6
+15           33           
+2 nodes in community 7
+1            12           
+2 nodes in community 8
+2            18           
+2 nodes in community 9
+5            11           
+2 nodes in community 10
+4            13           
+2 nodes in community 11
+27           30           
+1 nodes in community 12
+29           
+1 nodes in community 13
+19           
+1 nodes in community 14
+16           
+1 nodes in community 15
+23           
+1 nodes in community 16
+20           
+1 nodes in community 17
+14           
+1 nodes in community 18
+8            
+1 nodes in community 19
+22           
+1 nodes in community 20
+21           
+1 nodes in community 21
+34           
+
+
+========================
+22 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+27           30           
+2 nodes in community 4
+9            31           
+2 nodes in community 5
+2            18           
+2 nodes in community 6
+24           28           
+2 nodes in community 7
+5            11           
+2 nodes in community 8
+15           33           
+2 nodes in community 9
+4            13           
+2 nodes in community 10
+3            10           
+1 nodes in community 11
+23           
+1 nodes in community 12
+16           
+1 nodes in community 13
+1            
+1 nodes in community 14
+21           
+1 nodes in community 15
+8            
+1 nodes in community 16
+14           
+1 nodes in community 17
+19           
+1 nodes in community 18
+12           
+1 nodes in community 19
+20           
+1 nodes in community 20
+29           
+1 nodes in community 21
+22           
+1 nodes in community 22
+34           
+
+
+========================
+23 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+4            13           
+2 nodes in community 4
+24           28           
+2 nodes in community 5
+3            10           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+5            11           
+2 nodes in community 8
+9            31           
+2 nodes in community 9
+2            18           
+1 nodes in community 10
+29           
+1 nodes in community 11
+23           
+1 nodes in community 12
+12           
+1 nodes in community 13
+1            
+1 nodes in community 14
+21           
+1 nodes in community 15
+8            
+1 nodes in community 16
+15           
+1 nodes in community 17
+19           
+1 nodes in community 18
+14           
+1 nodes in community 19
+20           
+1 nodes in community 20
+33           
+1 nodes in community 21
+16           
+1 nodes in community 22
+22           
+1 nodes in community 23
+34           
+
+
+========================
+24 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+9            31           
+2 nodes in community 4
+2            22           
+2 nodes in community 5
+4            13           
+2 nodes in community 6
+5            11           
+2 nodes in community 7
+24           28           
+2 nodes in community 8
+27           30           
+1 nodes in community 9
+19           
+1 nodes in community 10
+10           
+1 nodes in community 11
+12           
+1 nodes in community 12
+23           
+1 nodes in community 13
+16           
+1 nodes in community 14
+1            
+1 nodes in community 15
+3            
+1 nodes in community 16
+14           
+1 nodes in community 17
+33           
+1 nodes in community 18
+18           
+1 nodes in community 19
+15           
+1 nodes in community 20
+8            
+1 nodes in community 21
+21           
+1 nodes in community 22
+29           
+1 nodes in community 23
+20           
+1 nodes in community 24
+34           
+
+
+========================
+25 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+9            31           
+2 nodes in community 4
+4            13           
+2 nodes in community 5
+5            11           
+2 nodes in community 6
+27           30           
+2 nodes in community 7
+24           28           
+1 nodes in community 8
+14           
+1 nodes in community 9
+1            
+1 nodes in community 10
+23           
+1 nodes in community 11
+16           
+1 nodes in community 12
+29           
+1 nodes in community 13
+19           
+1 nodes in community 14
+20           
+1 nodes in community 15
+2            
+1 nodes in community 16
+22           
+1 nodes in community 17
+33           
+1 nodes in community 18
+15           
+1 nodes in community 19
+21           
+1 nodes in community 20
+12           
+1 nodes in community 21
+10           
+1 nodes in community 22
+8            
+1 nodes in community 23
+18           
+1 nodes in community 24
+3            
+1 nodes in community 25
+34           
+
+
+========================
+27 communities
+3 nodes in community 1
+6            7            17           
+3 nodes in community 2
+25           26           32           
+2 nodes in community 3
+4            13           
+2 nodes in community 4
+5            11           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+24           
+1 nodes in community 7
+28           
+1 nodes in community 8
+22           
+1 nodes in community 9
+23           
+1 nodes in community 10
+2            
+1 nodes in community 11
+18           
+1 nodes in community 12
+16           
+1 nodes in community 13
+31           
+1 nodes in community 14
+1            
+1 nodes in community 15
+20           
+1 nodes in community 16
+10           
+1 nodes in community 17
+33           
+1 nodes in community 18
+19           
+1 nodes in community 19
+3            
+1 nodes in community 20
+8            
+1 nodes in community 21
+9            
+1 nodes in community 22
+14           
+1 nodes in community 23
+12           
+1 nodes in community 24
+21           
+1 nodes in community 25
+15           
+1 nodes in community 26
+29           
+1 nodes in community 27
+34           
+
+
+========================
+28 communities
+3 nodes in community 1
+6            7            17           
+2 nodes in community 2
+4            13           
+2 nodes in community 3
+5            11           
+2 nodes in community 4
+25           26           
+2 nodes in community 5
+27           30           
+1 nodes in community 6
+18           
+1 nodes in community 7
+24           
+1 nodes in community 8
+19           
+1 nodes in community 9
+29           
+1 nodes in community 10
+23           
+1 nodes in community 11
+16           
+1 nodes in community 12
+33           
+1 nodes in community 13
+12           
+1 nodes in community 14
+31           
+1 nodes in community 15
+32           
+1 nodes in community 16
+22           
+1 nodes in community 17
+21           
+1 nodes in community 18
+1            
+1 nodes in community 19
+9            
+1 nodes in community 20
+20           
+1 nodes in community 21
+3            
+1 nodes in community 22
+8            
+1 nodes in community 23
+15           
+1 nodes in community 24
+28           
+1 nodes in community 25
+2            
+1 nodes in community 26
+10           
+1 nodes in community 27
+14           
+1 nodes in community 28
+34           
+
+
+========================
+29 communities
+3 nodes in community 1
+6            7            17           
+2 nodes in community 2
+5            11           
+2 nodes in community 3
+25           26           
+2 nodes in community 4
+27           30           
+1 nodes in community 5
+32           
+1 nodes in community 6
+23           
+1 nodes in community 7
+24           
+1 nodes in community 8
+28           
+1 nodes in community 9
+22           
+1 nodes in community 10
+33           
+1 nodes in community 11
+20           
+1 nodes in community 12
+19           
+1 nodes in community 13
+29           
+1 nodes in community 14
+31           
+1 nodes in community 15
+1            
+1 nodes in community 16
+21           
+1 nodes in community 17
+15           
+1 nodes in community 18
+16           
+1 nodes in community 19
+8            
+1 nodes in community 20
+9            
+1 nodes in community 21
+3            
+1 nodes in community 22
+4            
+1 nodes in community 23
+12           
+1 nodes in community 24
+14           
+1 nodes in community 25
+18           
+1 nodes in community 26
+10           
+1 nodes in community 27
+13           
+1 nodes in community 28
+2            
+1 nodes in community 29
+34           
+
+
+========================
+30 communities
+2 nodes in community 1
+27           30           
+2 nodes in community 2
+5            11           
+2 nodes in community 3
+7            17           
+2 nodes in community 4
+25           26           
+1 nodes in community 5
+18           
+1 nodes in community 6
+21           
+1 nodes in community 7
+22           
+1 nodes in community 8
+23           
+1 nodes in community 9
+24           
+1 nodes in community 10
+2            
+1 nodes in community 11
+16           
+1 nodes in community 12
+29           
+1 nodes in community 13
+31           
+1 nodes in community 14
+32           
+1 nodes in community 15
+20           
+1 nodes in community 16
+1            
+1 nodes in community 17
+9            
+1 nodes in community 18
+10           
+1 nodes in community 19
+33           
+1 nodes in community 20
+3            
+1 nodes in community 21
+4            
+1 nodes in community 22
+6            
+1 nodes in community 23
+8            
+1 nodes in community 24
+15           
+1 nodes in community 25
+19           
+1 nodes in community 26
+12           
+1 nodes in community 27
+13           
+1 nodes in community 28
+14           
+1 nodes in community 29
+28           
+1 nodes in community 30
+34           
+
+
+========================
+34 communities
+1 nodes in community 1
+1            
+1 nodes in community 2
+18           
+1 nodes in community 3
+24           
+1 nodes in community 4
+25           
+1 nodes in community 5
+20           
+1 nodes in community 6
+21           
+1 nodes in community 7
+22           
+1 nodes in community 8
+23           
+1 nodes in community 9
+33           
+1 nodes in community 10
+31           
+1 nodes in community 11
+32           
+1 nodes in community 12
+27           
+1 nodes in community 13
+28           
+1 nodes in community 14
+29           
+1 nodes in community 15
+30           
+1 nodes in community 16
+19           
+1 nodes in community 17
+26           
+1 nodes in community 18
+9            
+1 nodes in community 19
+16           
+1 nodes in community 20
+6            
+1 nodes in community 21
+7            
+1 nodes in community 22
+8            
+1 nodes in community 23
+3            
+1 nodes in community 24
+4            
+1 nodes in community 25
+5            
+1 nodes in community 26
+2            
+1 nodes in community 27
+13           
+1 nodes in community 28
+14           
+1 nodes in community 29
+15           
+1 nodes in community 30
+10           
+1 nodes in community 31
+11           
+1 nodes in community 32
+12           
+1 nodes in community 33
+17           
+1 nodes in community 34
+34           
+
+

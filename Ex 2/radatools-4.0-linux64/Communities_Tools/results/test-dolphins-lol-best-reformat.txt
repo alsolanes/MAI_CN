@@ -1,0 +1,26 @@
+---------
+Largest known modularity, recovered with Tabu
+Q_Tabu = 0.528519
+---
+5 communities
+20 nodes in community 1
+Beescratch   DN16         DN21         DN63         Feather      
+Gallatin     Jet          Knit         MN23         Mus          
+Notch        Number1      Quasi        Ripplefluke  SN90         
+TR82         Upbang       Wave         Web          Zig          
+16 nodes in community 2
+Fork         Grin         Hook         Scabs        Shmuddel     
+SN4          SN63         SN9          Stripes      TR120        
+TR88         TR99         TSN103       TSN83        Whitetip     
+Zipfel       
+12 nodes in community 3
+Cross        Five         Haecksel     Jonah        MN105        
+MN60         MN83         Patchback    SMN5         Topless      
+Trigger      Vau          
+9 nodes in community 4
+Beak         Bumper       Fish         Kringel      Oscar        
+PL           SN96         Thumper      TR77         
+5 nodes in community 5
+CCL          Double       SN100        SN89         Zap          
+
+

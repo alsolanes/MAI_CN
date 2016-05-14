@@ -1,0 +1,108 @@
+COL1:
+  Minimum  : -1.000000
+  Maximum  : 2.000000
+  Arithmetic Mean : 1.125000
+  Geometric Mean  : undefined
+  Harmonic Mean   : undefined
+  Variance : 0.982143
+  Std_Dev  : 0.991031
+  Skewness : -1.486055
+  Kurtosis : 2.973091
+  Central Moment Degree 1 : 0.000000
+  Central Moment Degree 2 : 0.859375
+  Central Moment Degree 3 : -0.949219
+  Central Moment Degree 4 : 2.768799
+  Central Moment Degree 5 : -5.223999
+  Percentile  5 : -1.000000
+  Percentile 10 : -0.400000
+  Percentile 25 : 1.000000
+  Percentile 50 : 1.000000
+  Percentile 75 : 2.000000
+  Percentile 90 : 2.000000
+  Percentile 95 : 2.000000
+
+COL2:
+  Minimum  : -4.000000
+  Maximum  : 8.000000
+  Arithmetic Mean : 3.000000
+  Geometric Mean  : undefined
+  Harmonic Mean   : undefined
+  Variance : 11.428571
+  Std_Dev  : 3.380617
+  Skewness : -1.064894
+  Kurtosis : 3.059000
+  Central Moment Degree 1 : 0.000000
+  Central Moment Degree 2 : 10.000000
+  Central Moment Degree 3 : -27.000000
+  Central Moment Degree 4 : 379.000000
+  Central Moment Degree 5 : -1710.000000
+  Percentile  5 : -4.000000
+  Percentile 10 : -2.200000
+  Percentile 25 : 2.000000
+  Percentile 50 : 4.000000
+  Percentile 75 : 4.000000
+  Percentile 90 : 6.800000
+  Percentile 95 : 8.000000
+
+COL3:
+  Minimum  : -1.000000
+  Maximum  : 5.000000
+  Arithmetic Mean : 2.250000
+  Geometric Mean  : undefined
+  Harmonic Mean   : undefined
+  Variance : 4.785714
+  Std_Dev  : 2.187628
+  Skewness : 0.122807
+  Kurtosis : -1.267454
+  Central Moment Degree 1 : 0.000000
+  Central Moment Degree 2 : 4.187500
+  Central Moment Degree 3 : 0.843750
+  Central Moment Degree 4 : 30.332031
+  Central Moment Degree 5 : -5.097656
+  Percentile  5 : -1.000000
+  Percentile 10 : -0.400000
+  Percentile 25 : 1.000000
+  Percentile 50 : 1.500000
+  Percentile 75 : 4.500000
+  Percentile 90 : 5.000000
+  Percentile 95 : 5.000000
+
+COL1 vs COL2:
+  Covariance : 2.428571
+  Correlation (Pearson)  : 0.724882
+  Correlation (Spearman) : 0.195847
+  Correlation Error (Pearson , Jackknife)        : 0.693011
+  Correlation Error (Pearson , Bootstrap)        : 0.478930
+  Correlation Error (Pearson , Fisher_Transform) : 0.219422
+  Correlation Error (Spearman, Jackknife)        : 0.652812
+  Correlation Error (Spearman, Bootstrap)        : 0.570088
+  Correlation Error (Spearman, Fisher_Transform) : 0.406255
+  Simple Linear Regression Y = a X + b :  a = 2.472727   b = 0.218182
+  Simple Linear Regression X = a Y + b :  a = 0.212500   b = 0.487500
+
+COL1 vs COL3:
+  Covariance : 1.107143
+  Correlation (Pearson)  : 0.510673
+  Correlation (Spearman) : 0.423592
+  Correlation Error (Pearson , Jackknife)        : 0.540370
+  Correlation Error (Pearson , Bootstrap)        : 0.405174
+  Correlation Error (Pearson , Fisher_Transform) : 0.325106
+  Correlation Error (Spearman, Jackknife)        : 0.448791
+  Correlation Error (Spearman, Bootstrap)        : 0.366525
+  Correlation Error (Spearman, Fisher_Transform) : 0.355548
+  Simple Linear Regression Y = a X + b :  a = 1.127273   b = 0.981818
+  Simple Linear Regression X = a Y + b :  a = 0.231343   b = 0.604478
+
+COL2 vs COL3:
+  Covariance : 3.142857
+  Correlation (Pearson)  : 0.424967
+  Correlation (Spearman) : 0.329204
+  Correlation Error (Pearson , Jackknife)        : 0.595909
+  Correlation Error (Pearson , Bootstrap)        : 0.425588
+  Correlation Error (Pearson , Fisher_Transform) : 0.355118
+  Correlation Error (Spearman, Jackknife)        : 0.496329
+  Correlation Error (Spearman, Bootstrap)        : 0.433917
+  Correlation Error (Spearman, Fisher_Transform) : 0.381409
+  Simple Linear Regression Y = a X + b :  a = 0.275000   b = 1.425000
+  Simple Linear Regression X = a Y + b :  a = 0.656716   b = 1.522388
+

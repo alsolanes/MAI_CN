@@ -1,0 +1,4 @@
+Degree	In_PDF	Out_PDF	In_CCDF	Out_CCDF
+0	0	0	9	9
+1	8	8	9	9
+2	1	1	1	1

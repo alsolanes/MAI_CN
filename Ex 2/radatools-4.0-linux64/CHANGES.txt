@@ -1,0 +1,120 @@
+===================================================================
+== Radatools 4.0                                                 ==
+== from                                                          ==
+== radalib-20160226-114357                                       ==
+==                                                               ==
+== Copyright (c) 2016 by                                         ==
+==                                                               ==
+==   Sergio Gomez             (sergio.gomez@urv.cat)             ==
+==   Alberto Fernandez        (alberto.fernandez@urv.cat)        ==
+==                                                               ==
+== 26/02/2016                                                    ==
+==                                                               ==
+== See LICENSE.txt                                               ==
+===================================================================
+
+-------------
+radatools 4.0
+-------------
+
+- source code available, see Radalib
+- added program for agglomerative hierarchical clustering: Hierarchical_Clustering
+- added program to calculate proximity matrices: Data_To_Proximities
+- added program to calculate correlation matrices: Data_To_Correlations
+- added program to calculate the network of communities: Communities_Network
+- added program to obtain some information of each link: Links_Info
+- added program to aggregate a multiplex network: Multiplex_Aggregate
+- added program to extract the layers of a multiplex network: Multiplex_Extract_Layers
+- added program to symmetrize a directed network: Symmetrize_Network
+- added program to sort the nodes of a network: Sort_Nodes
+- added conversion programs: Matrix_To_List, Net_To_List
+- added program to calculate elementary data statistics: Data_Statistics
+- Mesoscales_Search renamed to Mesoscales_Detection
+- Network_Properties: faster implementation of edge betweenness
+- expanded functionality of:
+    Communities_Detection
+    Compare_Partitions
+    Connected_Subgraphs
+    Mesoscales_Detection
+    Modularity_Calculation
+    Network_Properties
+- minor updates
+
+
+-------------
+radatools 3.2
+-------------
+
+- added program to calculate the modularity: Modularity_Calculation
+- expanded functionality of Network_Properties
+- minor updates
+
+
+-------------
+radatools 3.1
+-------------
+
+- added program to extract a subgraph from a network: Extract_Subgraphs
+
+
+-------------
+radatools 3.0
+-------------
+
+- available also for MacOS X
+- new modularity type: Weighted_Link_Rank
+- communities detection:
+    new implementation of the fast algorithm
+- mesoscales search updated:
+    extended to all modularity types, for self-loops in given range
+    automatic determination of self-loops range for Weighted_Signed and Weighted_Newman
+- connected components:
+    now available the calculation of both weak and strong connected components
+- new programs:
+    Size_Reduction, Size_Reduction_Lol_Expand, Convert_Clu_To_Lol, Network_Properties,
+    Compare_Partitions, Spanning_Tree, Net_To_Matrix
+- list of available programs:
+    01-Prepare_Network : List_To_Net, Matrix_To_Net, Connected_Subgraphs, Size_Reduction
+    02-Find_Communities: Communities_Detection, Mesoscales_Search, Mesoscales_Fine_Tuning
+    03-Reformat_Results: Size_Reduction_Lol_Expand, Convert_Lol_To_Clu, Convert_Clu_To_Lol,
+                         Reformat_Partitions
+    04-Other_Tools     : Network_Properties, Compare_Partitions, Spanning_Tree,
+                         Net_To_Matrix
+
+
+-------------
+radatools 2.1
+-------------
+
+- minor updates
+
+
+-------------
+radatools 2.0
+-------------
+
+- added programs for mesoscale search and fine-tuning
+- adaptated Reformat_Partitions to deal with mesoscales files
+- list of available programs:
+    01-Prepare_Network : List_To_Net, Matrix_To_Net, Connected_Subgraphs
+    02-Find_Communities: Communities_Detection, Mesoscales_Search, Mesoscales_Fine_Tuning
+    03-Reformat_Results: Convert_Lol_To_Clu, Reformat_Partitions
+
+
+-------------
+radatools 1.1
+-------------
+
+- available also for Linux 32 (compatible with Linux 64)
+- minor updates
+
+
+-------------
+radatools 1.0
+-------------
+
+- available only for Windows 32 (compatible with Windows 64)
+- first release, with programs:
+    01-Prepare_Network   : List_To_Net, Matrix_To_Net, Connected_Subgraphs
+    02-Find_Communities  : Communities_Detection
+    03-Reformat_Partition: Convert_Lol_To_Clu, Reformat_Partition

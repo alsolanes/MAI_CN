@@ -1,0 +1,8 @@
+# MultiDendrogram
++ 2  [5.0, 5.0]  4  Cluster_6
+  + 3  [2.0, 4.0]  3  Cluster_5
+    *  x1
+    *  x2
+    *  x3
+  *  x4
+----------

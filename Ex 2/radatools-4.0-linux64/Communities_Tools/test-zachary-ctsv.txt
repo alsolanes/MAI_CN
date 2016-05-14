@@ -1,0 +1,837 @@
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (1): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 1
+
+Same Class Agreements : 273
+Agreements            : 273
+Disagreements(1)      : 0       (Partition1 inside Partition2)
+Disagreements(2)      : 288
+Disagreements         : 288
+Pairs                 : 561
+
+Jaccard Index         : 0.4866
+Rand Index            : 0.4866
+Adjusted Rand Index   : 0.0000
+Fowlkes Mallows Index : 0.6976
+Normalized Mutual Information Index (maximum)    : 0.0000
+Normalized Mutual Information Index (arithmetic) : 0.0000
+Normalized Mutual Information Index (geometric)  : 0.0000
+Normalized Mutual Information Index (minimum)    : 0.0000
+Asymmetric Wallace Index(1) : 1.0000       (Partition1 inside Partition2)
+Asymmetric Wallace Index(2) : 0.4866
+
+Mirkin Metric                   : 576.0000
+Van Dongen Metric               : 16.0000
+Variation Of Information Metric : 0.9975
+Normalized Mirkin Metric                   : 0.5134
+Normalized Van Dongen Metric               : 0.2353
+Normalized Variation Of Information Metric : 0.1961
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (2): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 2
+
+Same Class Agreements : 273
+Agreements            : 561
+Disagreements(1)      : 0       (Partition1 inside Partition2)
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 0       (Partition1 = Partition2)
+Pairs                 : 561
+
+Jaccard Index         : 1.0000
+Rand Index            : 1.0000
+Adjusted Rand Index   : 1.0000
+Fowlkes Mallows Index : 1.0000
+Normalized Mutual Information Index (maximum)    : 1.0000
+Normalized Mutual Information Index (arithmetic) : 1.0000
+Normalized Mutual Information Index (geometric)  : 1.0000
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 1.0000       (Partition1 inside Partition2)
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 0.0000
+Van Dongen Metric               : 0.0000
+Variation Of Information Metric : 0.0000
+Normalized Mirkin Metric                   : 0.0000
+Normalized Van Dongen Metric               : 0.0000
+Normalized Variation Of Information Metric : 0.0000
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (3): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 4
+
+Same Class Agreements : 146
+Agreements            : 434
+Disagreements(1)      : 127
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 127
+Pairs                 : 561
+
+Jaccard Index         : 0.5348
+Rand Index            : 0.7736
+Adjusted Rand Index   : 0.5414
+Fowlkes Mallows Index : 0.7313
+Normalized Mutual Information Index (maximum)    : 0.5235
+Normalized Mutual Information Index (arithmetic) : 0.6873
+Normalized Mutual Information Index (geometric)  : 0.7236
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.5348
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 254.0000
+Van Dongen Metric               : 11.0000
+Variation Of Information Metric : 0.9078
+Normalized Mirkin Metric                   : 0.2264
+Normalized Van Dongen Metric               : 0.1618
+Normalized Variation Of Information Metric : 0.1784
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (4): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 5
+
+Same Class Agreements : 135
+Agreements            : 423
+Disagreements(1)      : 138
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 138
+Pairs                 : 561
+
+Jaccard Index         : 0.4945
+Rand Index            : 0.7540
+Adjusted Rand Index   : 0.5011
+Fowlkes Mallows Index : 0.7032
+Normalized Mutual Information Index (maximum)    : 0.4863
+Normalized Mutual Information Index (arithmetic) : 0.6543
+Normalized Mutual Information Index (geometric)  : 0.6973
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.4945
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 276.0000
+Van Dongen Metric               : 12.0000
+Variation Of Information Metric : 1.0539
+Normalized Mirkin Metric                   : 0.2460
+Normalized Van Dongen Metric               : 0.1765
+Normalized Variation Of Information Metric : 0.2072
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (5): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 6
+
+Same Class Agreements : 125
+Agreements            : 413
+Disagreements(1)      : 148
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 148
+Pairs                 : 561
+
+Jaccard Index         : 0.4579
+Rand Index            : 0.7362
+Adjusted Rand Index   : 0.4644
+Fowlkes Mallows Index : 0.6767
+Normalized Mutual Information Index (maximum)    : 0.4547
+Normalized Mutual Information Index (arithmetic) : 0.6252
+Normalized Mutual Information Index (geometric)  : 0.6743
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.4579
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 296.0000
+Van Dongen Metric               : 13.0000
+Variation Of Information Metric : 1.1961
+Normalized Mirkin Metric                   : 0.2638
+Normalized Van Dongen Metric               : 0.1912
+Normalized Variation Of Information Metric : 0.2351
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (6): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 7
+
+Same Class Agreements : 107
+Agreements            : 395
+Disagreements(1)      : 166
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 166
+Pairs                 : 561
+
+Jaccard Index         : 0.3919
+Rand Index            : 0.7041
+Adjusted Rand Index   : 0.3982
+Fowlkes Mallows Index : 0.6261
+Normalized Mutual Information Index (maximum)    : 0.4131
+Normalized Mutual Information Index (arithmetic) : 0.5846
+Normalized Mutual Information Index (geometric)  : 0.6427
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.3919
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 332.0000
+Van Dongen Metric               : 15.0000
+Variation Of Information Metric : 1.4174
+Normalized Mirkin Metric                   : 0.2959
+Normalized Van Dongen Metric               : 0.2206
+Normalized Variation Of Information Metric : 0.2786
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (7): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 8
+
+Same Class Agreements : 98
+Agreements            : 386
+Disagreements(1)      : 175
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 175
+Pairs                 : 561
+
+Jaccard Index         : 0.3590
+Rand Index            : 0.6881
+Adjusted Rand Index   : 0.3651
+Fowlkes Mallows Index : 0.5991
+Normalized Mutual Information Index (maximum)    : 0.3907
+Normalized Mutual Information Index (arithmetic) : 0.5619
+Normalized Mutual Information Index (geometric)  : 0.6251
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.3590
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 350.0000
+Van Dongen Metric               : 16.0000
+Variation Of Information Metric : 1.5553
+Normalized Mirkin Metric                   : 0.3119
+Normalized Van Dongen Metric               : 0.2353
+Normalized Variation Of Information Metric : 0.3057
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (8): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 9
+
+Same Class Agreements : 93
+Agreements            : 381
+Disagreements(1)      : 180
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 180
+Pairs                 : 561
+
+Jaccard Index         : 0.3407
+Rand Index            : 0.6791
+Adjusted Rand Index   : 0.3466
+Fowlkes Mallows Index : 0.5837
+Normalized Mutual Information Index (maximum)    : 0.3739
+Normalized Mutual Information Index (arithmetic) : 0.5443
+Normalized Mutual Information Index (geometric)  : 0.6115
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.3407
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 360.0000
+Van Dongen Metric               : 16.0000
+Variation Of Information Metric : 1.6700
+Normalized Mirkin Metric                   : 0.3209
+Normalized Van Dongen Metric               : 0.2353
+Normalized Variation Of Information Metric : 0.3283
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (9): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 10
+
+Same Class Agreements : 85
+Agreements            : 373
+Disagreements(1)      : 188
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 188
+Pairs                 : 561
+
+Jaccard Index         : 0.3114
+Rand Index            : 0.6649
+Adjusted Rand Index   : 0.3170
+Fowlkes Mallows Index : 0.5580
+Normalized Mutual Information Index (maximum)    : 0.3562
+Normalized Mutual Information Index (arithmetic) : 0.5252
+Normalized Mutual Information Index (geometric)  : 0.5968
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.3114
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 376.0000
+Van Dongen Metric               : 17.0000
+Variation Of Information Metric : 1.8032
+Normalized Mirkin Metric                   : 0.3351
+Normalized Van Dongen Metric               : 0.2500
+Normalized Variation Of Information Metric : 0.3544
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (10): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 12
+
+Same Class Agreements : 70
+Agreements            : 358
+Disagreements(1)      : 203
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 203
+Pairs                 : 561
+
+Jaccard Index         : 0.2564
+Rand Index            : 0.6381
+Adjusted Rand Index   : 0.2615
+Fowlkes Mallows Index : 0.5064
+Normalized Mutual Information Index (maximum)    : 0.3258
+Normalized Mutual Information Index (arithmetic) : 0.4915
+Normalized Mutual Information Index (geometric)  : 0.5708
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.2564
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 406.0000
+Van Dongen Metric               : 19.0000
+Variation Of Information Metric : 2.0643
+Normalized Mirkin Metric                   : 0.3619
+Normalized Van Dongen Metric               : 0.2794
+Normalized Variation Of Information Metric : 0.4058
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (11): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 14
+
+Same Class Agreements : 49
+Agreements            : 337
+Disagreements(1)      : 224
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 224
+Pairs                 : 561
+
+Jaccard Index         : 0.1795
+Rand Index            : 0.6007
+Adjusted Rand Index   : 0.1834
+Fowlkes Mallows Index : 0.4237
+Normalized Mutual Information Index (maximum)    : 0.2915
+Normalized Mutual Information Index (arithmetic) : 0.4514
+Normalized Mutual Information Index (geometric)  : 0.5399
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.1795
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 448.0000
+Van Dongen Metric               : 22.0000
+Variation Of Information Metric : 2.4244
+Normalized Mirkin Metric                   : 0.3993
+Normalized Van Dongen Metric               : 0.3235
+Normalized Variation Of Information Metric : 0.4765
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (12): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 15
+
+Same Class Agreements : 46
+Agreements            : 334
+Disagreements(1)      : 227
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 227
+Pairs                 : 561
+
+Jaccard Index         : 0.1685
+Rand Index            : 0.5954
+Adjusted Rand Index   : 0.1722
+Fowlkes Mallows Index : 0.4105
+Normalized Mutual Information Index (maximum)    : 0.2836
+Normalized Mutual Information Index (arithmetic) : 0.4419
+Normalized Mutual Information Index (geometric)  : 0.5325
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.1685
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 454.0000
+Van Dongen Metric               : 22.0000
+Variation Of Information Metric : 2.5198
+Normalized Mirkin Metric                   : 0.4046
+Normalized Van Dongen Metric               : 0.3235
+Normalized Variation Of Information Metric : 0.4953
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (13): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 16
+
+Same Class Agreements : 41
+Agreements            : 329
+Disagreements(1)      : 232
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 232
+Pairs                 : 561
+
+Jaccard Index         : 0.1502
+Rand Index            : 0.5865
+Adjusted Rand Index   : 0.1536
+Fowlkes Mallows Index : 0.3875
+Normalized Mutual Information Index (maximum)    : 0.2746
+Normalized Mutual Information Index (arithmetic) : 0.4309
+Normalized Mutual Information Index (geometric)  : 0.5241
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.1502
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 464.0000
+Van Dongen Metric               : 23.0000
+Variation Of Information Metric : 2.6345
+Normalized Mirkin Metric                   : 0.4135
+Normalized Van Dongen Metric               : 0.3382
+Normalized Variation Of Information Metric : 0.5179
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (14): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 19
+
+Same Class Agreements : 26
+Agreements            : 314
+Disagreements(1)      : 247
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 247
+Pairs                 : 561
+
+Jaccard Index         : 0.0952
+Rand Index            : 0.5597
+Adjusted Rand Index   : 0.0975
+Fowlkes Mallows Index : 0.3086
+Normalized Mutual Information Index (maximum)    : 0.2501
+Normalized Mutual Information Index (arithmetic) : 0.4002
+Normalized Mutual Information Index (geometric)  : 0.5001
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0952
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 494.0000
+Van Dongen Metric               : 26.0000
+Variation Of Information Metric : 2.9904
+Normalized Mirkin Metric                   : 0.4403
+Normalized Van Dongen Metric               : 0.3824
+Normalized Variation Of Information Metric : 0.5878
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (15): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 19
+
+Same Class Agreements : 25
+Agreements            : 313
+Disagreements(1)      : 248
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 248
+Pairs                 : 561
+
+Jaccard Index         : 0.0916
+Rand Index            : 0.5579
+Adjusted Rand Index   : 0.0938
+Fowlkes Mallows Index : 0.3026
+Normalized Mutual Information Index (maximum)    : 0.2487
+Normalized Mutual Information Index (arithmetic) : 0.3984
+Normalized Mutual Information Index (geometric)  : 0.4987
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0916
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 496.0000
+Van Dongen Metric               : 26.0000
+Variation Of Information Metric : 3.0126
+Normalized Mirkin Metric                   : 0.4421
+Normalized Van Dongen Metric               : 0.3824
+Normalized Variation Of Information Metric : 0.5922
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (16): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 20
+
+Same Class Agreements : 20
+Agreements            : 308
+Disagreements(1)      : 253
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 253
+Pairs                 : 561
+
+Jaccard Index         : 0.0733
+Rand Index            : 0.5490
+Adjusted Rand Index   : 0.0751
+Fowlkes Mallows Index : 0.2707
+Normalized Mutual Information Index (maximum)    : 0.2410
+Normalized Mutual Information Index (arithmetic) : 0.3884
+Normalized Mutual Information Index (geometric)  : 0.4909
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0733
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 506.0000
+Van Dongen Metric               : 27.0000
+Variation Of Information Metric : 3.1410
+Normalized Mirkin Metric                   : 0.4510
+Normalized Van Dongen Metric               : 0.3971
+Normalized Variation Of Information Metric : 0.6174
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (17): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 20
+
+Same Class Agreements : 15
+Agreements            : 302
+Disagreements(1)      : 258
+Disagreements(2)      : 1
+Disagreements         : 259
+Pairs                 : 561
+
+Jaccard Index         : 0.0547
+Rand Index            : 0.5383
+Adjusted Rand Index   : 0.0528
+Fowlkes Mallows Index : 0.2270
+Normalized Mutual Information Index (maximum)    : 0.2225
+Normalized Mutual Information Index (arithmetic) : 0.3599
+Normalized Mutual Information Index (geometric)  : 0.4575
+Normalized Mutual Information Index (minimum)    : 0.9410
+Asymmetric Wallace Index(1) : 0.0549
+Asymmetric Wallace Index(2) : 0.9375
+
+Mirkin Metric                   : 518.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.3397
+Normalized Mirkin Metric                   : 0.4617
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.6565
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (18): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 21
+
+Same Class Agreements : 14
+Agreements            : 301
+Disagreements(1)      : 259
+Disagreements(2)      : 1
+Disagreements         : 260
+Pairs                 : 561
+
+Jaccard Index         : 0.0511
+Rand Index            : 0.5365
+Adjusted Rand Index   : 0.0490
+Fowlkes Mallows Index : 0.2188
+Normalized Mutual Information Index (maximum)    : 0.2194
+Normalized Mutual Information Index (arithmetic) : 0.3558
+Normalized Mutual Information Index (geometric)  : 0.4544
+Normalized Mutual Information Index (minimum)    : 0.9410
+Asymmetric Wallace Index(1) : 0.0513
+Asymmetric Wallace Index(2) : 0.9333
+
+Mirkin Metric                   : 520.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.3985
+Normalized Mirkin Metric                   : 0.4635
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.6680
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (19): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 22
+
+Same Class Agreements : 13
+Agreements            : 300
+Disagreements(1)      : 260
+Disagreements(2)      : 1
+Disagreements         : 261
+Pairs                 : 561
+
+Jaccard Index         : 0.0474
+Rand Index            : 0.5348
+Adjusted Rand Index   : 0.0453
+Fowlkes Mallows Index : 0.2103
+Normalized Mutual Information Index (maximum)    : 0.2164
+Normalized Mutual Information Index (arithmetic) : 0.3519
+Normalized Mutual Information Index (geometric)  : 0.4513
+Normalized Mutual Information Index (minimum)    : 0.9410
+Asymmetric Wallace Index(1) : 0.0476
+Asymmetric Wallace Index(2) : 0.9286
+
+Mirkin Metric                   : 522.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.4573
+Normalized Mirkin Metric                   : 0.4652
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.6796
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (20): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 23
+
+Same Class Agreements : 12
+Agreements            : 299
+Disagreements(1)      : 261
+Disagreements(2)      : 1
+Disagreements         : 262
+Pairs                 : 561
+
+Jaccard Index         : 0.0438
+Rand Index            : 0.5330
+Adjusted Rand Index   : 0.0415
+Fowlkes Mallows Index : 0.2014
+Normalized Mutual Information Index (maximum)    : 0.2135
+Normalized Mutual Information Index (arithmetic) : 0.3481
+Normalized Mutual Information Index (geometric)  : 0.4483
+Normalized Mutual Information Index (minimum)    : 0.9410
+Asymmetric Wallace Index(1) : 0.0440
+Asymmetric Wallace Index(2) : 0.9231
+
+Mirkin Metric                   : 524.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.5161
+Normalized Mirkin Metric                   : 0.4670
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.6911
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (21): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 24
+
+Same Class Agreements : 12
+Agreements            : 300
+Disagreements(1)      : 261
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 261
+Pairs                 : 561
+
+Jaccard Index         : 0.0440
+Rand Index            : 0.5348
+Adjusted Rand Index   : 0.0451
+Fowlkes Mallows Index : 0.2097
+Normalized Mutual Information Index (maximum)    : 0.2239
+Normalized Mutual Information Index (arithmetic) : 0.3659
+Normalized Mutual Information Index (geometric)  : 0.4732
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0440
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 522.0000
+Van Dongen Metric               : 28.0000
+Variation Of Information Metric : 3.4573
+Normalized Mirkin Metric                   : 0.4652
+Normalized Van Dongen Metric               : 0.4118
+Normalized Variation Of Information Metric : 0.6796
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (22): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 25
+
+Same Class Agreements : 11
+Agreements            : 299
+Disagreements(1)      : 262
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 262
+Pairs                 : 561
+
+Jaccard Index         : 0.0403
+Rand Index            : 0.5330
+Adjusted Rand Index   : 0.0413
+Fowlkes Mallows Index : 0.2007
+Normalized Mutual Information Index (maximum)    : 0.2210
+Normalized Mutual Information Index (arithmetic) : 0.3620
+Normalized Mutual Information Index (geometric)  : 0.4701
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0403
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 524.0000
+Van Dongen Metric               : 28.0000
+Variation Of Information Metric : 3.5161
+Normalized Mirkin Metric                   : 0.4670
+Normalized Van Dongen Metric               : 0.4118
+Normalized Variation Of Information Metric : 0.6911
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (23): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 27
+
+Same Class Agreements : 9
+Agreements            : 297
+Disagreements(1)      : 264
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 264
+Pairs                 : 561
+
+Jaccard Index         : 0.0330
+Rand Index            : 0.5294
+Adjusted Rand Index   : 0.0338
+Fowlkes Mallows Index : 0.1816
+Normalized Mutual Information Index (maximum)    : 0.2154
+Normalized Mutual Information Index (arithmetic) : 0.3544
+Normalized Mutual Information Index (geometric)  : 0.4641
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0330
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 528.0000
+Van Dongen Metric               : 28.0000
+Variation Of Information Metric : 3.6338
+Normalized Mirkin Metric                   : 0.4706
+Normalized Van Dongen Metric               : 0.4118
+Normalized Variation Of Information Metric : 0.7143
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (24): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 28
+
+Same Class Agreements : 7
+Agreements            : 295
+Disagreements(1)      : 266
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 266
+Pairs                 : 561
+
+Jaccard Index         : 0.0256
+Rand Index            : 0.5258
+Adjusted Rand Index   : 0.0263
+Fowlkes Mallows Index : 0.1601
+Normalized Mutual Information Index (maximum)    : 0.2117
+Normalized Mutual Information Index (arithmetic) : 0.3494
+Normalized Mutual Information Index (geometric)  : 0.4601
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0256
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 532.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.7148
+Normalized Mirkin Metric                   : 0.4742
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.7302
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (25): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 29
+
+Same Class Agreements : 6
+Agreements            : 294
+Disagreements(1)      : 267
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 267
+Pairs                 : 561
+
+Jaccard Index         : 0.0220
+Rand Index            : 0.5241
+Adjusted Rand Index   : 0.0226
+Fowlkes Mallows Index : 0.1482
+Normalized Mutual Information Index (maximum)    : 0.2091
+Normalized Mutual Information Index (arithmetic) : 0.3458
+Normalized Mutual Information Index (geometric)  : 0.4572
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0220
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 534.0000
+Van Dongen Metric               : 29.0000
+Variation Of Information Metric : 3.7736
+Normalized Mirkin Metric                   : 0.4759
+Normalized Van Dongen Metric               : 0.4265
+Normalized Variation Of Information Metric : 0.7418
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (26): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 30
+
+Same Class Agreements : 4
+Agreements            : 292
+Disagreements(1)      : 269
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 269
+Pairs                 : 561
+
+Jaccard Index         : 0.0147
+Rand Index            : 0.5205
+Adjusted Rand Index   : 0.0150
+Fowlkes Mallows Index : 0.1210
+Normalized Mutual Information Index (maximum)    : 0.2056
+Normalized Mutual Information Index (arithmetic) : 0.3410
+Normalized Mutual Information Index (geometric)  : 0.4534
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0147
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 538.0000
+Van Dongen Metric               : 30.0000
+Variation Of Information Metric : 3.8547
+Normalized Mirkin Metric                   : 0.4795
+Normalized Van Dongen Metric               : 0.4412
+Normalized Variation Of Information Metric : 0.7577
+---------------------------------------------------
+Partition1 (1): test-zachary-lol1.clu
+Partition2 (27): test-zachary-lols.txt
+
+Number of Lists(1) : 2
+Number of Lists(2) : 34
+
+Same Class Agreements : 0
+Agreements            : 288
+Disagreements(1)      : 273
+Disagreements(2)      : 0       (Partition2 inside Partition1)
+Disagreements         : 273
+Pairs                 : 561
+
+Jaccard Index         : 0.0000
+Rand Index            : 0.5134
+Adjusted Rand Index   : 0.0000
+Fowlkes Mallows Index : 0.0000
+Normalized Mutual Information Index (maximum)    : 0.1961
+Normalized Mutual Information Index (arithmetic) : 0.3279
+Normalized Mutual Information Index (geometric)  : 0.4428
+Normalized Mutual Information Index (minimum)    : 1.0000
+Asymmetric Wallace Index(1) : 0.0000
+Asymmetric Wallace Index(2) : 1.0000       (Partition2 inside Partition1)
+
+Mirkin Metric                   : 546.0000
+Van Dongen Metric               : 32.0000
+Variation Of Information Metric : 4.0900
+Normalized Mirkin Metric                   : 0.4866
+Normalized Van Dongen Metric               : 0.4706
+Normalized Variation Of Information Metric : 0.8039

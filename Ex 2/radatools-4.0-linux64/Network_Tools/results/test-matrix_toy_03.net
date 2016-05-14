@@ -1,0 +1,14 @@
+*Vertices 4
+1 nom1
+2 nom2
+3 33
+4 nom4
+*Arcs
+1 2 1.1
+1 3 str
+2 1 1.1
+2 2 1
+3 1 str
+3 4 7
+4 3 8
+4 4 zz

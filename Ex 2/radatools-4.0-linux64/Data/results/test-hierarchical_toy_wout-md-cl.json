@@ -1,0 +1,33 @@
+# MultiDendrogram
+{
+ "name": "c11", "height": 14.0, "margin": 0.0, "length": 0.0,
+ "children": [
+  {
+   "name": "c10", "height": 8.0, "margin": 0.0, "length": 6.0,
+   "children": [
+    {
+     "name": "c7", "height": 2.0, "margin": 0.0, "length": 6.0,
+     "children": [
+      {"name": "1", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1},
+      {"name": "2", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1}
+     ]
+    },
+    {"name": "3", "height": 0.0, "margin": 0.0, "length": 8.0, "size": 1}
+   ]
+  },
+  {
+   "name": "c9", "height": 7.0, "margin": 0.0, "length": 7.0,
+   "children": [
+    {
+     "name": "c8", "height": 2.0, "margin": 0.0, "length": 5.0,
+     "children": [
+      {"name": "4", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1},
+      {"name": "5", "height": 0.0, "margin": 0.0, "length": 2.0, "size": 1}
+     ]
+    },
+    {"name": "6", "height": 0.0, "margin": 0.0, "length": 7.0, "size": 1}
+   ]
+  }
+ ]
+}
+

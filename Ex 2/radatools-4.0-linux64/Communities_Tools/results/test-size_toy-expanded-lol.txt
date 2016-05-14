@@ -1,0 +1,10 @@
+---------
+Parameters: WN h 3
+Q = 0.015864
+---
+Number of elements: 11
+Number of lists: 3
+
+7: 1 2 3 4 9 10 11
+2: 5 6
+2: 7 8
