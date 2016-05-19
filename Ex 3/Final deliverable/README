@@ -1,0 +1,11 @@
+Author: Aleix Solanes Font
+MAI - Complex Networks (URV)
+
+Folders:
+	- images-results: contains the output plots of the transitions and the beta as a function of p.
+	- networks: contains the generated networks in pajek format
+	- source:   contains the main source code.
+		- There is a file with all the classes in a single file for readibility purpose, and the execution used, that are several classes separated by files, and a main.py which is the file that executes the code.
+
+File:
+	- CN_ex3 - SolanesAleix.pdf is a document with all the plots and that specifies the parameters used.
